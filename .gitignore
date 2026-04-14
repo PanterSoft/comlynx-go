@@ -1,0 +1,22 @@
+# Binaries and build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+coverage.out
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Dependency vendor folder (optional)
+vendor/
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
