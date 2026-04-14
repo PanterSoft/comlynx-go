@@ -1,4 +1,4 @@
-module github.com/evcc-io/comlynx
+module github.com/PanterSoft/comlynx-go
 
 go 1.22
 
