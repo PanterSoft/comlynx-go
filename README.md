@@ -57,3 +57,7 @@ func main() {
 
 - `Client.Read` returns the raw 32-bit value reported by the inverter.
 - `Client.Ping` can be used for address discovery on the ComLynx bus.
+
+## Acknowledgments
+
+Protocol reference: [yvesf/pycomlynx](https://github.com/yvesf/pycomlynx.git).
